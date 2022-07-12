@@ -16,7 +16,7 @@
   <img align="center" alt="Python" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
   <img align="center" alt="SQLite" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg"/>
   <img align="center" alt="VSCode" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg"/>
-  <img align="right" alt="Coding-gif" height="150" width="150" style="border-radius:50px;" src="https://tenor.com/bQ8uA.gif">
+  <img align="right" alt="Coding-gif" height="150" width="150" style="border-radius:50px;" src="https://tenor.com/bN65M.gif">
     
 </div>     
  
