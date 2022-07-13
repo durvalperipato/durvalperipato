@@ -1,5 +1,5 @@
 <h1> Durval Peripato Neto </h1>
-<h5><i>"A perfeição não é alcançada quando já não há mais nada para adicionar, mas quando já não há mais nada para se retirar"</i></h5>
+<h4><i><b>"A perfeição não é alcançada quando já não há mais nada para adicionar, mas quando já não há mais nada para se retirar"</b></i></h4>
 <div align="center">
   <a href="https://github.com/durvalperipato">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=durvalperipato&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
