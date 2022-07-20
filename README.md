@@ -8,12 +8,12 @@
  </div>
  
 
-<div style="display: inline_block">
+<div align="left" style="display: inline-block">
   <h2>Conhecimentos</h2>
-  <img src="https://tenor.com/7pS7.gif">
+  <!--<img src="https://github.com/durvalperipato/durvalperipato/blob/main/goku.gif" height="50" width="50">-->
 </div>
 
-<div align="left" style="display: inline_block">
+<div align="left" style="display: inline-block">
   <img align="center" alt="Flutter" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"/>
   <img align="center" alt="Dart" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original-wordmark.svg"/>  
   <img align="center" alt="Firebase" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg"/>
@@ -26,7 +26,7 @@
 </div>
 
 <h2>Estudando</h2>
-<div align="left";style="display: inline_block">
+<div align="left" style="display: inline-block">
    <img align="center" alt="HTML" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
    <img align="center" alt="CSS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"/>
    <img align="center" alt="Bootstrap" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg"/>
@@ -35,7 +35,7 @@
 </div>  
 
 <h2>Próximos passos</h2>
-<div align="left" style="display: inline_block"><br>
+<div align="left" style="display: inline-block"><br>
    <img align="center" alt="TypeScrypt" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
    <img align="center" alt="Python" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
    <img align="center" alt="Java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
