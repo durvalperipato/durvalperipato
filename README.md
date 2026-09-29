@@ -1,49 +1,94 @@
-
-<h1> Durval Peripato Neto </h1>
-<h4><i><b>"A perfeição não é alcançada quando já não há mais nada para adicionar, mas quando já não há mais nada para se retirar"</b></i></h4>
-<h6>Antonie de Saint-Exupéry</h6>
 <div align="center">
-  <a href="https://github.com/durvalperipato">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=durvalperipato&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=durvalperipato&layout=compact&langs_count=7&theme=dark"/>
- </div>
- 
+  <h1>Durval Peripato Neto</h1>
+  <p><strong>Founder & Software Architect na <a href="https://www.nanodevs.com.br" target="_blank">Nano Devs</a></strong></p>
+  <p>Especialista em ecossistemas <strong>Flutter & Dart</strong>, arquiteturas escaláveis e integração de <strong>Inteligência Artificial (MCP & Autonomous Agents)</strong>.</p>
 
-<div align="left" style="display: inline-block">
-  <h2>Conhecimentos</h2>
-  <!--<img src="https://github.com/durvalperipato/durvalperipato/blob/main/goku.gif" height="50" width="50">-->
+  <p>
+    <a href="https://www.nanodevs.com.br"><img src="https://img.shields.io/badge/Website-nanodevs.com.br-007ACC?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
+    <a href="https://pub.dev/publishers/nanodevs.com.br/packages"><img src="https://img.shields.io/badge/Pub.dev-Nano%20Packages-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Pub.dev" /></a>
+    <a href="https://linkedin.com/in/durvalperipato"><img src="https://img.shields.io/badge/LinkedIn-Durval%20Peripato-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  </p>
 </div>
 
-<div align="left" style="display: inline-block">
-  <img align="center" alt="Flutter" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"/>
-  <img align="center" alt="Dart" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original-wordmark.svg"/>  
-  <img align="center" alt="Firebase" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg"/>
-  <img align="center" alt="MySQL" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
-  <img align="center" alt="SQLite" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg"/>
-  <img align="center" alt="Git" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg"/>
-  <img align="center" alt="Github" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg"/>
-  <img align="center" alt="Figma" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
-  <img align="center" alt="VSCode" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg"/>
+<br/>
+
+### 🚀 Sobre Mim & Nano Devs
+
+- 🏢 **Fundador da [Nano Devs](https://www.nanodevs.com.br)**, desenvolvendo soluções de alta performance para produtos digitais.
+- 📦 **Autor & Mantenedor do [`nano_core`](https://pub.dev/packages/nano_core)**, pacote fundacional para injeção de dependências, logging, networking resiliente e arquitetura padronizada no ecossistema Flutter/Dart.
+- 🤖 **Ferramental de IA & MCP**: Arquiteto do ecossistema de desenvolvimento assistido por agentes, criando **Model Context Protocol (MCP) servers**, personas especializadas e pipelines automatizados de engenharia de software.
+- 🎯 Foco em clean architecture, código desacoplado, testes robustos e automação de ponta a ponta (CI/CD).
+
+---
+
+### 📦 Projetos & Ecossistema em Destaque
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center"><a href="https://pub.dev/packages/nano_core">nano_core</a></h3>
+      <p align="center">
+        <a href="https://pub.dev/packages/nano_core"><img src="https://img.shields.io/pub/v/nano_core.svg?style=flat-square&color=blue" alt="Pub Version"/></a>
+        <a href="https://pub.dev/packages/nano_core"><img src="https://img.shields.io/pub/points/nano_core.svg?style=flat-square" alt="Pub Points"/></a>
+      </p>
+      <p>Biblioteca fundacional modular para arquitetura Flutter/Dart enterprise com injeção de dependência reativa, HTTP client resiliente e sistema de log estruturado.</p>
+    </td>
+    <td width="50%">
+      <h3 align="center">Nano Devs Environment</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/AI-Agentic%20Workflows-blueviolet?style=flat-square" alt="AI Agentic Workflows"/>
+        <img src="https://img.shields.io/badge/Protocol-MCP%20Enabled-orange?style=flat-square" alt="MCP Enabled"/>
+      </p>
+      <p>Ecossistema interno de engenharia composto por servidores MCP customizados, personas de IA (Architect, Reviewer, QA) e automações ágeis.</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🛠 Tecnologias & Especialidades
+
+<div align="left">
+
+**Mobile & Frontend Core**  
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+
+**Inteligência Artificial & Developer Tooling**  
+![MCP](https://img.shields.io/badge/MCP-Model%20Context%20Protocol-8A2BE2?style=for-the-badge)
+![AI Agents](https://img.shields.io/badge/Agentic%20AI-Engineering%20Workflows-00C7B7?style=for-the-badge)
+![LLM Tools](https://img.shields.io/badge/LLM-Prompt%20%26%20Tool%20Orchestration-FF6F61?style=for-the-badge)
+
+**Backend, Cloud & Dados**  
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL%20%2F%20NoSQL-Databases-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**DevOps & Ferramental**  
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
 </div>
 
-<h2>Estudando</h2>
-<div align="left" style="display: inline-block">
-   <img align="center" alt="HTML" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-   <img align="center" alt="CSS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"/>
-   <img align="center" alt="Bootstrap" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg"/>
-   <img align="center" alt="JS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-   <img align="center" alt="NodeJS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"/>   
-</div>  
+---
 
-<h2>Próximos passos</h2>
-<div align="left" style="display: inline-block"><br>
-   <img align="center" alt="TypeScrypt" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
-   <img align="center" alt="Python" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-   <img align="center" alt="Java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
-   <img align="center" alt="Kotlin" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"/>
-   <img align="center" alt="Go" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg"/>
+### 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=durvalperipato&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=durvalperipato&theme=tokyonight&hide_border=true" />
 </div>
 
-<footer>
-    <img align="right" alt="Coding-gif" height="180" width="180" src="https://github.com/durvalperipato/durvalperipato/blob/main/programmer.gif">
- </footer>
+<div align="center">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=durvalperipato&theme=tokyonight" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=durvalperipato&theme=tokyonight" />
+</div>
+
+---
+
+<div align="center">
+  <sub><i>"A perfeição não é alcançada quando já não há mais nada para adicionar, mas quando já não há mais nada para se retirar."</i> — Antoine de Saint-Exupéry</sub>
+</div>
