@@ -78,13 +78,10 @@
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=durvalperipato&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=durvalperipato&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=durvalperipato&theme=tokyonight" />
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=durvalperipato&theme=tokyonight" />
+  <img width="700" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=durvalperipato&theme=tokyonight" /><br/><br/>
+  <img width="700" src="https://github-readme-streak-stats.herokuapp.com/?user=durvalperipato&theme=tokyonight&hide_border=true" /><br/><br/>
+  <img width="346" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=durvalperipato&theme=tokyonight" />
+  <img width="346" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=durvalperipato&theme=tokyonight" />
 </div>
 
 ---
